@@ -196,6 +196,7 @@ PRODUCT_PACKAGES += \
 # Themes
 PRODUCT_PACKAGES += \
     AndroidBlackThemeOverlay \
+    WallpaperPickerGoogleRelease \
     crDroidThemesStub
 
 # Extra packages
