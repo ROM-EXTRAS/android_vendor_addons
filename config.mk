@@ -225,7 +225,6 @@ PRODUCT_PACKAGES += \
 
 # Themes
 PRODUCT_PACKAGES += \
-    AndroidBlackThemeOverlay \
     MicropaperPrebuilt \
     PixelWallpapers2021 \
     PixelLiveWallpaperPrebuilt \
