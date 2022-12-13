@@ -80,6 +80,19 @@ endif
 
 # Fonts
 PRODUCT_PACKAGES += \
+    CutiveMono.ttf \
+    DroidSansMono.ttf \
+    NotoSerif-Bold.ttf \
+    NotoSerif-BoldItalic.ttf \
+    NotoSerif-Italic.ttf \
+    NotoSerif-Regular.ttf \
+    Recursive-VF.ttf \
+    Roboto-Regular.ttf \
+    RobotoFallback-VF.ttf \
+    RobotoStatic-Regular.ttf \
+
+# Font Overlays
+PRODUCT_PACKAGES += \
     fonts_customization.xml \
     FontAccuratistOverlay \
     FontAclonicaOverlay \
