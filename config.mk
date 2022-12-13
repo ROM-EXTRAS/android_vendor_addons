@@ -226,8 +226,6 @@ PRODUCT_PACKAGES += \
 # Themes
 PRODUCT_PACKAGES += \
     MicropaperPrebuilt \
-    PixelWallpapers2021 \
-    PixelLiveWallpaperPrebuilt \
     WallpaperPickerGoogleRelease \
     LineageThemesStub
 
