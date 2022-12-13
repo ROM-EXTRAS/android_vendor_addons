@@ -94,23 +94,28 @@ PRODUCT_PACKAGES += \
     FontFifa2018Overlay \
     FontGoogleSansOverlay \
     FontGrandHotelOverlay \
-    FontHarmonySansOverlay \
     FontLatoOverlay \
     FontLGSmartGothicOverlay \
     FontLinotteOverlay \
+    FontManropeOverlay \
     FontNokiaPureOverlay \
+    FontNotoSansOverlay \
     FontNunitoOverlay \
     FontOneplusSansOverlay \
     FontOneplusSlateOverlay \
     FontOswaldOverlay \
     FontQuandoOverlay \
+    FontRecursiveCasualOverlay \
+    FontRecursiveLinearOverlay \
     FontRedressedOverlay \
     FontReemKufiOverlay \
     FontRobotoCondensedOverlay \
+    FontRobotoOverlay \
     FontRosemaryOverlay \
-    FontRubikOverlay \
     FontSamsungOneOverlay \
     FontSonySketchOverlay \
+    FontSourceSansOverlay \
+    FontSourceSerifOverlay \
     FontStoropiaOverlay \
     FontSurferOverlay \
     FontUbuntuOverlay
