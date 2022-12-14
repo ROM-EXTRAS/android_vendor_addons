@@ -78,6 +78,13 @@ BOARD_SEPOLICY_DIRS += \
     hardware/google/pixel-sepolicy/flipendo
 endif
 
+# Live Wallpapers
+ifeq ($(TARGET_INCLUDE_LIVE_WALLPAPERS),true)
+PRODUCT_PACKAGES += \
+    PixelLiveWallpaperPrebuilt \
+    MicropaperPrebuilt
+endif
+
 # Fonts
 PRODUCT_PACKAGES += \
     CutiveMono.ttf \
