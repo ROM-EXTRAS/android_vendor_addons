@@ -316,5 +316,9 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     Flipendo
 
+# Wallpaper
+PRODUCT_PACKAGES += \
+    ShishufiedWalls
+
 PRODUCT_COPY_FILES += \
     $(call find-copy-subdir-files,*,vendor/addons/prebuilt/product/fonts,$(TARGET_COPY_OUT_PRODUCT)/fonts)
