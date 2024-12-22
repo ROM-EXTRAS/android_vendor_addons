@@ -9,6 +9,7 @@ android_app_import {
         },
     required: [
         "default_permissions_com.google.android.flipendo",
+        "privapp-com.google.android.flipendo",
     ],
 }
 
