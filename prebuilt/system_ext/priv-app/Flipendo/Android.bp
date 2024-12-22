@@ -2,8 +2,9 @@ android_app_import {
         name: "Flipendo",
         system_ext_specific: true,
         apk: "Flipendo.apk",
-        certificate: "platform",
 	privileged: true,
+        preprocessed: true,
+        presigned: true,
         dex_preopt: {
                 enabled: false,
         },
